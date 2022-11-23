@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/symbols_testing_aswin/__init__.py
+src/symbols_testing_aswin/example.py
+src/symbols_testing_aswin.egg-info/PKG-INFO
+src/symbols_testing_aswin.egg-info/SOURCES.txt
+src/symbols_testing_aswin.egg-info/dependency_links.txt
+src/symbols_testing_aswin.egg-info/top_level.txt
