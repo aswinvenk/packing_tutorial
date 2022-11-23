@@ -7,3 +7,4 @@ src/example_package_aswin.egg-info/PKG-INFO
 src/example_package_aswin.egg-info/SOURCES.txt
 src/example_package_aswin.egg-info/dependency_links.txt
 src/example_package_aswin.egg-info/top_level.txt
+test/test.py

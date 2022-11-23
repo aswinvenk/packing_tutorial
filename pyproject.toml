@@ -4,11 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "example_package_aswin"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
-  { name="Aswin Venkat", email="aswinvenk8@gmail.com" },
+  { name="Aswin Venkat", email="aswinvenk8@gmail.com"},
 ]
-description = "A small example package"
+maintainers = [
+  { name="Balamurugan A", email="balamuruganazhaguvel03@gmail.com"},
+]
+description = "This is a sample module to explain different symbols in Python"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
