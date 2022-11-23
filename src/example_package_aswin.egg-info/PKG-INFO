@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: example-package-aswin
+Version: 0.0.2
+Summary: A small example package
+Author-email: Aswin Venkat <aswinvenk8@gmail.com>
+Project-URL: Homepage, https://github.com/aswinvenk/packing_tutorial
+Project-URL: Bug Tracker, https://github.com/aswinvenk/packing_tutorial/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Packaging tutorial
+==================
+
+
+# Adding 1 to a number
+The function takes a value and returns your input +1
+```python
+>>> example.add_one(43)
+44
+```
+
+# Adding two numbers
+This function takes 2 numbers and adds them
+```python
+>>> example.add_numbers(43,44)
+87
+```
+
+Created by Aswin Venkat <aswinvenk8@gmail.com>
