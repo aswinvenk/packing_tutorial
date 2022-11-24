@@ -79,7 +79,7 @@ This function takes 2 numbers, divides them and returns the remainder
 1
 ```
 # Random number between 0 to 100
-This function takes 2 numbers, divides them and returns the remainder
+This function returns a random number
 ```python
 >>> example.random_number().zero_to_hundred()
 1
